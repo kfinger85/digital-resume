@@ -1,5 +1,6 @@
 # KEVIN FINGER 
 **970-420-8199**
+<br>
 **www.linkedin.com/in/kevin-finger**
 
 ## Overview of Software Developer Qualifications:
