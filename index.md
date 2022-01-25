@@ -1,22 +1,14 @@
-## Welcome to GitHub Pages
+# KEVIN FINGER 
+## 970-420-8199 
+### www.linkedin.com/in/kevin-finger 
 
-You can use the [editor on GitHub](https://github.com/kfinger85/digital-resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
+# Overview of Software Developer Qualifications:
+	- Familiarity with professional web development in HTML, CSS, JavaScript. 
+	- Experience with the Agile/Scrum-based cycle of development. 
+	- Principle knowledge of Asynchronous JavaScript operations: Callbacks, Promises, async/await. 
+	- Understanding of High-Level network data transmission including HTTP requests. 
+	- Foundational knowledge relational database management using SQL.  
+	- Proficiency using async JavaScript operations to retrieve JSON leaflet map data.  
 
 1. Numbered
 2. List
