@@ -1,8 +1,8 @@
 # KEVIN FINGER 
-## 970-420-8199 
-### www.linkedin.com/in/kevin-finger 
+**970-420-8199**
+**www.linkedin.com/in/kevin-finger **
 
-# Overview of Software Developer Qualifications:
+## Overview of Software Developer Qualifications:
 	- Familiarity with professional web development in HTML, CSS, JavaScript. 
 	- Experience with the Agile/Scrum-based cycle of development. 
 	- Principle knowledge of Asynchronous JavaScript operations: Callbacks, Promises, async/await. 
@@ -10,20 +10,14 @@
 	- Foundational knowledge relational database management using SQL.  
 	- Proficiency using async JavaScript operations to retrieve JSON leaflet map data.  
 
-1. Numbered
-2. List
+## Education 
+	   Colorado State University - Bachelors of Computer Science - Fort Collins, CO. 
+	    - Expected Graduation: Spring 2023 
+	    - Program GPA: 3.2
+      Software Development Relevant Coursework:
+	  Participated in team, Agile/Scrum-based Software Development cycle, which included: 
+	    -  Sprint planning, daily scrum, report tracking, end of sprint product demo and retrospective.                              	    •  Worked collaboratively within a team to maintain and update a code base.  
+	    -  Practiced code reviews to maintain high standard of intelligibility of the code base.
+	    -  Identified areas of code/logic complexity/errors to improve performance of code base. 
+	    -  Version control and report tracking tools used: Git, GitHub, Zenhub, and Code Climate. 	    	    •  Technology and testing tools used: JavaScript, Java, Leaflet, React, SQL, JSON, JUnit, Jest.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kfinger85/digital-resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
