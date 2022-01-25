@@ -1,6 +1,6 @@
 # KEVIN FINGER 
 **970-420-8199**
-**www.linkedin.com/in/kevin-finger **
+**www.linkedin.com/in/kevin-finger**
 
 ## Overview of Software Developer Qualifications:
 	- Familiarity with professional web development in HTML, CSS, JavaScript. 
@@ -16,8 +16,10 @@
 	    - Program GPA: 3.2
       Software Development Relevant Coursework:
 	  Participated in team, Agile/Scrum-based Software Development cycle, which included: 
-	    -  Sprint planning, daily scrum, report tracking, end of sprint product demo and retrospective.                              	    •  Worked collaboratively within a team to maintain and update a code base.  
+	    -  Sprint planning, daily scrum, report tracking, end of sprint product demo and retrospective.                              	    
+	    -  Worked -collaboratively within a team to maintain and update a code base.  
 	    -  Practiced code reviews to maintain high standard of intelligibility of the code base.
 	    -  Identified areas of code/logic complexity/errors to improve performance of code base. 
-	    -  Version control and report tracking tools used: Git, GitHub, Zenhub, and Code Climate. 	    	    •  Technology and testing tools used: JavaScript, Java, Leaflet, React, SQL, JSON, JUnit, Jest.
+	    -  Version control and report tracking tools used: Git, GitHub, Zenhub, and Code Climate. 	    	    
+	    -  Technology and testing tools used: JavaScript, Java, Leaflet, React, SQL, JSON, JUnit, Jest.
 
